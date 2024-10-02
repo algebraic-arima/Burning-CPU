@@ -1,12 +1,4 @@
-# <img src="README.assets/cpu.png" width="40" align=center /> RISCV-CPU 2022
-
-## 引言
-
-![wechat_screenshot](README.assets/wechat_screenshot.jpg)
-
-
-
-
+# <img src="README.assets/cpu.png" width="40" align=center /> RISCV-CPU 2024
 
 ## 项目说明
 
